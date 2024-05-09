@@ -40,7 +40,7 @@ I'm a developer and content creator dedicated to crafting the digital landscape,
 
 ### 📈 GitHub Stats
 
-![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancodesai&show_icons=true&theme=dark)
+![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedryanahmed&show_icons=true&theme=dark)
 
 ### 🌐 Connect With Me
 
