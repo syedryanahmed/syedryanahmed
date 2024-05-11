@@ -23,6 +23,12 @@ I'm a developer and content creator dedicated to crafting the digital landscape,
 
 #
 
+### 🚀 Current Projects
+
+- **Project 1:** Exploratory Data Analysis and Data Cleansing on the Diabetes Dataset.
+- **Project 2:** Exploring Facial Recognition with PCA Analysis and Generation using CelebA Dataset.
+- **Project 3:** My Chatbot.
+
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -55,11 +61,5 @@ I'm a developer and content creator dedicated to crafting the digital landscape,
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
-
-### 🚀 Current Projects
-
-- **Project 1:** Exploratory Data Analysis and Data Cleansing on the Diabetes Dataset.
-- **Project 2:** Exploring Facial Recognition with PCA Analysis and Generation using CelebA Dataset.
-- **Project 3:** My Chatbot.
 
 [youtube]: https://youtube.com/@SyedRyanAhmed
