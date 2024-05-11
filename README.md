@@ -60,6 +60,6 @@ I'm a developer and content creator dedicated to crafting the digital landscape,
 
 - **Project 1:** Exploratory Data Analysis and Data Cleansing on the Diabetes Dataset.
 - **Project 2:** Exploring Facial Recognition with PCA Analysis and Generation using CelebA Dataset.
-- **Project 3:** Calculator meme.
+- **Project 3:** My Chatbot.
 
 [youtube]: https://youtube.com/@SyedRyanAhmed
